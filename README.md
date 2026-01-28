@@ -12,7 +12,7 @@
 
 ##  项目结构
 ```
-fitness_app/
+Fitness-App/
 ├── main.py              # 主程序 GUI 界面
 ├── squat_counter.py     # 深蹲计数器模块
 ├── pushup_counter.py    # 俯卧撑计数器模块
@@ -39,8 +39,8 @@ fitness_app/
 
 ### 1. 克隆项目
 ```bash
-git clone <项目地址>
-cd fitness-app
+git clone https://github.com/iinwind/Fitness-App.git
+cd Fitness-App
 ```
 
 ### 2. 创建虚拟环境
@@ -92,4 +92,4 @@ python main.py
 
 ### 音乐设置
 - 可开启/关闭背景音乐
-- 滑动条调节音量 
+- 可通过滑动条调节音量 
